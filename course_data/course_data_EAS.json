@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "12119",
+        "Course Code": "EAS 111",
+        "Course Title": "Technical Drawing",
+        "Teaching Method": "",
+        "Instructor": "Melek  Ertogan",
+        "Building": "DZB",
+        "Day": "Salı",
+        "Time": "0930/1229",
+        "Room": "---",
+        "Capacity": "10",
+        "Enrolled": "1",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SDU",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "12017",
+        "Course Code": "EAS 112",
+        "Course Title": "Technical Drawing",
+        "Teaching Method": "",
+        "Instructor": "Murat  Durucu",
+        "Building": "INB",
+        "Day": "Pazartesi",
+        "Time": "1230/1529",
+        "Room": "D101",
+        "Capacity": "25",
+        "Enrolled": "13",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SED",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:44 29.09.2023"
+    }
+]

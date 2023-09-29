@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "13772",
+        "Course Code": "ULP 101",
+        "Course Title": "NewBeg.Fresh.Sem.&Serv to L. I",
+        "Teaching Method": "",
+        "Instructor": "--",
+        "Building": "MED",
+        "Day": "Pazartesi",
+        "Time": "1830/2029",
+        "Room": "---",
+        "Capacity": "200",
+        "Enrolled": "88",
+        "Reservation": "Yok/None",
+        "Major Restriction": "MBI, MCB, SBL, SCE, SDU, SEK, SEN, SGM, SIN, SIS, SMT, STP",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13774",
+        "Course Code": "ULP 101",
+        "Course Title": "NewBeg.Fresh.Sem.&Serv to L. I",
+        "Teaching Method": "",
+        "Instructor": "--",
+        "Building": "DZB",
+        "Day": "Pazartesi",
+        "Time": "1830/2029",
+        "Room": "---",
+        "Capacity": "100",
+        "Enrolled": "4",
+        "Reservation": "Yok/None",
+        "Major Restriction": "MBI, MCB, SBL, SCE, SDU, SEK, SEN, SGM, SIN, SIS, SMT, STP",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:29 29.09.2023"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "13535",
+        "Course Code": "TES 111E",
+        "Course Title": "Project I",
+        "Teaching Method": "",
+        "Instructor": "--",
+        "Building": "MMBMMB",
+        "Day": "Pazartesi Perşembe",
+        "Time": "0830/1229 0830/1229",
+        "Room": "--- ---",
+        "Capacity": "650",
+        "Enrolled": "573",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ARC, ENTE, EUT, EUTE, IAD, ICM, MIM, MIME, PEM, PEME, SBP, SBPE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13559",
+        "Course Code": "TES 112E",
+        "Course Title": "Vis.Comm.I:Visualiz.&Tch.Drw.",
+        "Teaching Method": "",
+        "Instructor": "--",
+        "Building": "MMB",
+        "Day": "Cuma",
+        "Time": "0830/1229",
+        "Room": "---",
+        "Capacity": "650",
+        "Enrolled": "608",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ARC, ENTE, EUT, EUTE, IAD, ICM, MIM, MIME, PEM, PEME, SBP, SBPE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13577",
+        "Course Code": "TES 113E",
+        "Course Title": "Basic Design and Visual Arts",
+        "Teaching Method": "",
+        "Instructor": "--",
+        "Building": "MMB",
+        "Day": "Çarşamba",
+        "Time": "0830/1229",
+        "Room": "---",
+        "Capacity": "650",
+        "Enrolled": "603",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ARC, ENTE, EUT, EUTE, IAD, ICM, MIM, MIME, PEM, PEME, SBP, SBPE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:27 29.09.2023"
+    }
+]

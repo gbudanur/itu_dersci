@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İTÜ Dersçi</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <meta property="og:title" content="ITU Dersçi | 23-24 Fall" />
+    <meta property="og:description" content="İTÜ Dersçi stores course schedules of ITU undergraduate programs, notifies you when a quota is available and helps you with your course registrations." />
+    <link rel="icon" href="https://ituhaberci.com/favicon.ico" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="https://ituhaberci.com/favicon-16x16.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="https://ituhaberci.com/favicon-32x32.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="https://ituhaberci.com/apple-touch-icon.png"
+    />
+    <link rel="mask-icon" href="https://ituhaberci.com/safari-pinned-tab.svg" />
+</head>
+<body>
+    <h1>İTÜ Dersçi</h1>
+    <h2>2023-2024 Fall Term</h2>
+    <p>To remove columns you do not want to see, click on the header of that column.</p>
+    <div class="centered-container">
+        <label for="courseAbbreviation">Select Course Abbreviation:</label>
+        <select id="courseAbbreviation">
+            {% for abbreviation in course_abbreviations %}
+                <option value="{{ abbreviation }}">{{ abbreviation }}</option>
+            {% endfor %}
+        </select>
+        <button id="loadDataButton">Load Data</button>
+    </div>
+    <button id="resetButton">Reset to Default</button>
+    <p id="lastUpdate"></p>
+    <p id="additionalText">This beta version will be improved with additional features</p>
+    <p id="fakefooter">
+        Designed with
+        <span id="heartbeat" style="animation: heartbeat 1s infinite; display: inline-block;">❤️</span>
+        by <a href="https://web.itu.edu.tr/budanur21" style="color: #ffffff; text-decoration: none; animation: heartbeat 0.5s infinite">YGB</a>
+      </p>
+    <table>
+        <thead>
+            <tr>
+                <th data-column="CRN">CRN</th>
+                <th data-column="Course Code">Course Code</th>
+                <th data-column="Course Title">Course Title</th>
+                <th data-column="Teaching Method">Teaching Method</th>
+                <th data-column="Instructor">Instructor</th>
+                <th data-column="Building">Building</th>
+                <th data-column="Day">Day</th>
+                <th data-column="Time">Time</th>
+                <th data-column="Room">Room</th>
+                <th data-column="Capacity">Capacity</th>
+                <th data-column="Enrolled">Enrolled</th>
+                <th data-column="Reservation">Reservation</th>
+                <th data-column="Major Restriction">Major Restriction</th>
+                <th data-column="Prerequisites">Prerequisites</th>
+                <th data-column="Class Restrictions">Class Restrictions</th>
+                <th data-column="No Capacity">No Capacity</th>
+            </tr>
+        </thead>
+        <tbody id="course-data">
+            <!-- fanfinfon -->
+        </tbody>
+    </table>
+</body>
+</html>
+
+<!-- Copyright 2020 Twitter, Inc and other contributors
+The emoji graphics are licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/

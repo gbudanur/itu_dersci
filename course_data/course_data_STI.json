@@ -1,0 +1,23 @@
+[
+    {
+        "CRN": "11451",
+        "Course Code": "STI 101",
+        "Course Title": "Statistics I",
+        "Teaching Method": "",
+        "Instructor": "Raziye  Selim",
+        "Building": "MED",
+        "Day": "Perşembe",
+        "Time": "1330/1629",
+        "Room": "B35",
+        "Capacity": "35",
+        "Enrolled": "22",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SEK, SIS",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:25 29.09.2023"
+    }
+]

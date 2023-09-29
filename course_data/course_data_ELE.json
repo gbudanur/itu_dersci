@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "10593",
+        "Course Code": "ELE 492",
+        "Course Title": "Bitirme Çalışması",
+        "Teaching Method": "",
+        "Instructor": "İsmail Serdar Özoğuz",
+        "Building": "EEB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ELE",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "10594",
+        "Course Code": "ELE 492E",
+        "Course Title": "Graduation Project",
+        "Teaching Method": "",
+        "Instructor": "İsmail Serdar Özoğuz",
+        "Building": "EEB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ELE",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:48 29.09.2023"
+    }
+]

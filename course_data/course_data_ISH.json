@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "12280",
+        "Course Code": "ISH 202E",
+        "Course Title": "Introduction to Heat Transfer",
+        "Teaching Method": "",
+        "Instructor": "Nalan  Erdöl Aydın",
+        "Building": "KMB",
+        "Day": "Çarşamba",
+        "Time": "0830/1129",
+        "Room": "D204",
+        "Capacity": "60",
+        "Enrolled": "46",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ISL, ISLE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "11434",
+        "Course Code": "ISH 301E",
+        "Course Title": "Fundamentals of Env.Sci & Eng.",
+        "Teaching Method": "",
+        "Instructor": "Ayşe Gül Tanık, Serdar  Doğruel",
+        "Building": "INB",
+        "Day": "Çarşamba",
+        "Time": "1230/1529",
+        "Room": "A301",
+        "Capacity": "60",
+        "Enrolled": "45",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ISL, ISLE",
+        "Prerequisites": "KIM 101 MIN DDveya KIM 101E MIN DD",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "12382",
+        "Course Code": "ISH 303E",
+        "Course Title": "Food Processing Techniques",
+        "Teaching Method": "",
+        "Instructor": "Fatih  Ortakcı, Gülay  Özkan",
+        "Building": "KMB",
+        "Day": "Salı",
+        "Time": "0830/1129",
+        "Room": "D102",
+        "Capacity": "60",
+        "Enrolled": "60",
+        "Reservation": "Yok/None",
+        "Major Restriction": "ISL, ISLE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "Last Update": "23:16:03 29.09.2023"
+    }
+]

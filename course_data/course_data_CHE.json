@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "12410",
+        "Course Code": "CHE 101",
+        "Course Title": "Chemistry I",
+        "Teaching Method": "",
+        "Instructor": "Barış  Kışkan",
+        "Building": "INBFEB",
+        "Day": "Pazartesi Perşembe",
+        "Time": "0830/1129 0830/1029",
+        "Room": "D203 LAB-F",
+        "Capacity": "40",
+        "Enrolled": "38",
+        "Reservation": "Yok/None",
+        "Major Restriction": "MBI, MCB, SCE, SED, SEN, SGI, SIN, SIS",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "10589",
+        "Course Code": "CHE 123",
+        "Course Title": "General Chemistry I",
+        "Teaching Method": "",
+        "Instructor": "Caner  Ünlü",
+        "Building": "EEB",
+        "Day": "Perşembe",
+        "Time": "1330/1629",
+        "Room": "1301",
+        "Capacity": "30",
+        "Enrolled": "9",
+        "Reservation": "Yok/None",
+        "Major Restriction": "EHN, SEH",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:40 29.09.2023"
+    }
+]

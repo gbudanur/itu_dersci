@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "12287",
+        "Course Code": "ETK 101",
+        "Course Title": "Mühendislik Etiği",
+        "Teaching Method": "",
+        "Instructor": "Yüksel  Örgün Tutay",
+        "Building": "MDB",
+        "Day": "Çarşamba",
+        "Time": "1230/1329",
+        "Room": "B206",
+        "Capacity": "70",
+        "Enrolled": "41",
+        "Reservation": "Yok/None",
+        "Major Restriction": "CHZ, JEF, JEO, MAD, PET",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13602",
+        "Course Code": "ETK 101E",
+        "Course Title": "Engineering Ethics",
+        "Teaching Method": "",
+        "Instructor": "Yeşim  Beceren",
+        "Building": "MKB",
+        "Day": "Çarşamba",
+        "Time": "1330/1429",
+        "Room": "D368A",
+        "Capacity": "75",
+        "Enrolled": "3",
+        "Reservation": "Yok/None",
+        "Major Restriction": "TEK, TEKE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:52 29.09.2023"
+    }
+]

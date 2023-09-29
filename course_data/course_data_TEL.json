@@ -1,0 +1,41 @@
+[
+    {
+        "CRN": "10595",
+        "Course Code": "TEL 492",
+        "Course Title": "Bitirme Çalışması",
+        "Teaching Method": "",
+        "Instructor": "İsmail Serdar Özoğuz",
+        "Building": "EEB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "TEL",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "10596",
+        "Course Code": "TEL 492E",
+        "Course Title": "Graduation Project",
+        "Teaching Method": "",
+        "Instructor": "İsmail Serdar Özoğuz",
+        "Building": "EEB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "TEL",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:26 29.09.2023"
+    }
+]

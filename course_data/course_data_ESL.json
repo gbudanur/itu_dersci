@@ -1,0 +1,23 @@
+[
+    {
+        "CRN": "13775",
+        "Course Code": "ESL 101",
+        "Course Title": "English I",
+        "Teaching Method": "",
+        "Instructor": "Gamze  Moran",
+        "Building": "MED",
+        "Day": "Perşembe",
+        "Time": "0930/1229",
+        "Room": "B37",
+        "Capacity": "25",
+        "Enrolled": "25",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SEK, SIS",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "Last Update": "23:15:52 29.09.2023"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "CRN": "13667",
+        "Course Code": "SPA 101",
+        "Course Title": "Spanish I",
+        "Teaching Method": "",
+        "Instructor": "Oğuzhan  Coşkunlu",
+        "Building": "MKB",
+        "Day": "Pazartesi",
+        "Time": "1330/1629",
+        "Room": "YDRAP",
+        "Capacity": "30",
+        "Enrolled": "21",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SMT, STP",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:24 29.09.2023"
+    }
+]

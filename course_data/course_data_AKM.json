@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "13141",
+        "Course Code": "AKM 204",
+        "Course Title": "Akışkanlar Mekaniği",
+        "Teaching Method": "",
+        "Instructor": "Mehmet Melih Koşucu",
+        "Building": "INB",
+        "Day": "Çarşamba",
+        "Time": "1230/1529",
+        "Room": "A305",
+        "Capacity": "60",
+        "Enrolled": "41",
+        "Reservation": "Yok/None",
+        "Major Restriction": "CEV",
+        "Prerequisites": "MAT 102 MIN DDveya MAT 102E MIN DDveya MAT 104 MIN DDveya MAT 104E MIN DD",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13324",
+        "Course Code": "AKM 204",
+        "Course Title": "Akışkanlar Mekaniği",
+        "Teaching Method": "",
+        "Instructor": "Necati Erdem Ünal",
+        "Building": "INB",
+        "Day": "Cuma",
+        "Time": "1400/1659",
+        "Room": "A202",
+        "Capacity": "70",
+        "Enrolled": "70",
+        "Reservation": "Yok/None",
+        "Major Restriction": "INS",
+        "Prerequisites": "MAT 102 MIN DDveya MAT 102E MIN DDveya MAT 104 MIN DDveya MAT 104E MIN DD",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "CRN": "13142",
+        "Course Code": "AKM 204E",
+        "Course Title": "Fluid Mechanics",
+        "Teaching Method": "",
+        "Instructor": "Mehmet  Özger",
+        "Building": "INB",
+        "Day": "Çarşamba",
+        "Time": "1230/1529",
+        "Room": "A204",
+        "Capacity": "60",
+        "Enrolled": "52",
+        "Reservation": "Yok/None",
+        "Major Restriction": "CEV, CEVE",
+        "Prerequisites": "MAT 102 MIN DDveya MAT 102E MIN DDveya MAT 104 MIN DDveya MAT 104E MIN DD",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:34 29.09.2023"
+    }
+]

@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Montserrat';
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Montserrat';
+}
+
+h2 {
+    text-align: center;
+    padding: 0px;
+    font-family: 'Montserrat';
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #444;
+    border: 1px solid #555;
+}
+
+table, th, td {
+    border: 1px solid #555;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #222;
+    cursor: pointer;
+    font-family: 'Montserrat';
+}
+
+th:hover {
+    background-color: #000;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #555;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #444;
+}
+
+tbody tr:hover {
+    background-color: #000;
+}
+
+#resetButton, #loadDataButton {
+    font-family: 'Montserrat';
+    background-color: #555;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#resetButton:hover, #loadDataButton:hover {
+    background-color: #000;
+}
+
+#resetButton {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#loadDataButton {
+    margin-top: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+#lastUpdate {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+    color: #fff;
+    font-style: italic;
+}
+
+.centered-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input-row label {
+    font-weight: bold;
+    color: #fff;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.input-row select {
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #555;
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+button#loadDataButton {
+    background-color: #555;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+button#loadDataButton:hover {
+    background-color: #000;
+}
+
+select {
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #555;
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+}
+
+#additionalText {
+    position: absolute;
+    top: 20px; 
+    left: 20px;
+    color: #fff;
+    font-size: 14px; 
+}
+
+#fakefooter {
+    position: absolute;
+    top: 40px; 
+    left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+

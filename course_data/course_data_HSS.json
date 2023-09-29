@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "13830",
+        "Course Code": "HSS 301",
+        "Course Title": "Research Methods & Statistics",
+        "Teaching Method": "",
+        "Instructor": "Sabire  Cömert",
+        "Building": "DZB",
+        "Day": "Pazartesi",
+        "Time": "1130/1429",
+        "Room": "---",
+        "Capacity": "60",
+        "Enrolled": "60",
+        "Reservation": "Yok/None",
+        "Major Restriction": "DUIK, GEMK, GMIK, MEN, MTM, NAE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "CRN": "15051",
+        "Course Code": "HSS 301",
+        "Course Title": "Research Methods & Statistics",
+        "Teaching Method": "",
+        "Instructor": "Burcu  Erbaş",
+        "Building": "GDB",
+        "Day": "Salı",
+        "Time": "1330/1629",
+        "Room": "D406",
+        "Capacity": "50",
+        "Enrolled": "29",
+        "Reservation": "Yok/None",
+        "Major Restriction": "DUIK, GEMK, GMIK, MEN, MTM, NAE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13857",
+        "Course Code": "HSS 331",
+        "Course Title": "Disaster Awareness",
+        "Teaching Method": "",
+        "Instructor": "Aydın  Mert",
+        "Building": "DZB",
+        "Day": "Cuma",
+        "Time": "1030/1229",
+        "Room": "---",
+        "Capacity": "60",
+        "Enrolled": "40",
+        "Reservation": "Yok/None",
+        "Major Restriction": "DUIK, GEMK, GMIK, MEN, MTM, NAE",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:01 29.09.2023"
+    }
+]

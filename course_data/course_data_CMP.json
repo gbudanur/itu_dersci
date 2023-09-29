@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "12395",
+        "Course Code": "CMP 103",
+        "Course Title": "Intr. to Comp. & Info. Sys.",
+        "Teaching Method": "",
+        "Instructor": "Ömer  Özyıldırım",
+        "Building": "KMB",
+        "Day": "Perşembe",
+        "Time": "1030/1229",
+        "Room": "GZ104",
+        "Capacity": "40",
+        "Enrolled": "9",
+        "Reservation": "Yok/None",
+        "Major Restriction": "MBI, MCB, SCE, SIN",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "13715",
+        "Course Code": "CMP 111",
+        "Course Title": "Intr.to Engineering and Comput",
+        "Teaching Method": "",
+        "Instructor": "Gazi  Koçak",
+        "Building": "DZB",
+        "Day": "Salı",
+        "Time": "1330/1729",
+        "Room": "---",
+        "Capacity": "10",
+        "Enrolled": "1",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SGM",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "12121",
+        "Course Code": "CMP 113",
+        "Course Title": "Intr.to Business Computing",
+        "Teaching Method": "",
+        "Instructor": "Muhsin  Kadıoğlu",
+        "Building": "DZB",
+        "Day": "Perşembe",
+        "Time": "0830/1229",
+        "Room": "---",
+        "Capacity": "10",
+        "Enrolled": "1",
+        "Reservation": "Yok/None",
+        "Major Restriction": "SDU",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:15:41 29.09.2023"
+    }
+]

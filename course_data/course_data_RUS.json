@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "11321",
+        "Course Code": "RUS 101",
+        "Course Title": "Rusça I",
+        "Teaching Method": "Çevrimiçi/Online",
+        "Instructor": "Ekaterina  Bal",
+        "Building": "----",
+        "Day": "Pazartesi",
+        "Time": "0830/1229",
+        "Room": "----",
+        "Capacity": "25",
+        "Enrolled": "25",
+        "Reservation": "Yok/None",
+        "Major Restriction": "Tüm Lisans ve Lisansüstü Programlar",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "CRN": "11322",
+        "Course Code": "RUS 101",
+        "Course Title": "Rusça I",
+        "Teaching Method": "Çevrimiçi/Online",
+        "Instructor": "Ekaterina  Bal",
+        "Building": "----",
+        "Day": "Salı",
+        "Time": "0830/1229",
+        "Room": "----",
+        "Capacity": "25",
+        "Enrolled": "25",
+        "Reservation": "Yok/None",
+        "Major Restriction": "Tüm Lisans ve Lisansüstü Programlar",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "Yes"
+    },
+    {
+        "CRN": "11323",
+        "Course Code": "RUS 102",
+        "Course Title": "Rusça II",
+        "Teaching Method": "Çevrimiçi/Online",
+        "Instructor": "Ekaterina  Bal",
+        "Building": "----",
+        "Day": "Çarşamba",
+        "Time": "0830/1229",
+        "Room": "----",
+        "Capacity": "25",
+        "Enrolled": "23",
+        "Reservation": "Yok/None",
+        "Major Restriction": "Tüm Lisans ve Lisansüstü Programlar",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:22 29.09.2023"
+    }
+]

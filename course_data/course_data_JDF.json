@@ -1,0 +1,59 @@
+[
+    {
+        "CRN": "15156",
+        "Course Code": "JDF 410E",
+        "Course Title": "Deformation Measurements",
+        "Teaching Method": "",
+        "Instructor": "Serdar  Erol",
+        "Building": "INB",
+        "Day": "Salı",
+        "Time": "1030/1229",
+        "Room": "---",
+        "Capacity": "10",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "GEO, GEOE, JDF",
+        "Prerequisites": "Yok/None",
+        "Class Restrictions": "Yok/None",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "12018",
+        "Course Code": "JDF 492",
+        "Course Title": "Tasarım Projesi",
+        "Teaching Method": "",
+        "Instructor": "Mehmet Ufuk Özerman",
+        "Building": "INB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "0",
+        "Reservation": "Yok/None",
+        "Major Restriction": "GEO, JDF",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "CRN": "12025",
+        "Course Code": "JDF 492E",
+        "Course Title": "Design Project",
+        "Teaching Method": "",
+        "Instructor": "Mehmet Ufuk Özerman",
+        "Building": "INB",
+        "Day": "----",
+        "Time": "/",
+        "Room": "---",
+        "Capacity": "500",
+        "Enrolled": "2",
+        "Reservation": "Yok/None",
+        "Major Restriction": "GEO, GEOE, JDF",
+        "Prerequisites": "Diğer Şartlar",
+        "Class Restrictions": "4.Sınıf",
+        "No Capacity": "No"
+    },
+    {
+        "Last Update": "23:16:05 29.09.2023"
+    }
+]
