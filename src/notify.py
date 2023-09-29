@@ -16,7 +16,7 @@ def by_email_update(subject, text):
             auth=("api", API_KEY),
             data={
                 "from": f"ITU Dersçi Admin <itudersciadmin@{URL}>",
-                "to": ["contact@iamygb.com", "Admin"],
+                "to": ["[ADMIN_EMAIL]", "Admin"],
                 "subject": subject,
                 "text": text,
             },
